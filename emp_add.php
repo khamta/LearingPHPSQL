@@ -1,5 +1,5 @@
 <?php
-
+1234
 include_once 'login_check.php';
 include_once 'function/function.php';
 // ຖ້າວ່າມີການກົດປຸ່ມ btnAdd
